@@ -1,5 +1,5 @@
 ```
-[root@vdds-cicd ~]# docker run -d --name ansible-container --restart always -it -v /project/manadevops/ansible:/tmp/ansible     maheshreddy7607/docker-ansible:2.9-1-alpine /bin/bash
+[root@vdds-cicd ~]# docker run -d --name ansible-container --restart always -it -v /project/manadevops/ansible:/tmp/ansible maheshreddy7607/docker-ansible:2.9-1-alpine /bin/bash
 364c6d3ad6166c31192f8d5cb68a500e87baaac684eb702ba96ff12e1136b74e
 [root@vdds-cicd ~]# docker ps
 CONTAINER ID        IMAGE                                         COMMAND             CREATED             STATUS              PORTS               NAMES
