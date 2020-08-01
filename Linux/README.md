@@ -2,9 +2,11 @@
    cat /etc/os-release
    uname -a    
    hostname -i    
-   hostname    
+   hostname  
+   
    df -h /var/lib/docker/overlay2            
-   du -sch /var/lib/docker/overlay2    
+   du -sch /var/lib/docker/overlay2
+   
    echo "eyarred ALL=(root) NOPASSWD:ALL" >> /etc/sudoers.d/       
          
    netstat -lntp      
