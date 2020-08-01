@@ -50,5 +50,7 @@ bash-5.0# cat sample.yml
 Note: Always use ctrl+p+q to get out of the container    
       use alias to run frequently used commands    
        Eg: alias t='docker attach 364'    
-           alias t='docker exec -it 364 /bin/bash'    
+           alias t='docker exec -it 364 /bin/bash' 
+      If i mount volume to /etc/ansible no need to specify inventory explicitly    
+         
            
