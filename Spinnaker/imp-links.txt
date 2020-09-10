@@ -1,0 +1,5 @@
+Continuous delivery with Spinnaker
+https://www.youtube.com/watch?v=X6dZ0H38VaM&feature=youtu.be
+
+Blogs:
+https://www.opsmx.com/blog/spinnaker-operating-models-how-to-choose-a-model-with-best-roi-for-your-business/
